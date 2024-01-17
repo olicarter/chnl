@@ -1,0 +1,2 @@
+- clone with submodules
+- run make in DaisySP and libDaisy
